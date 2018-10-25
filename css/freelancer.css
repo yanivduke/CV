@@ -345,10 +345,10 @@ form .row:first-child .floating-label-form-group {
   text-decoration: none;
   font-size: 26px;
   font-weight: bold;
-  color: #e9ecef;
+  color: #5a6b6b;
 }
 a {
-  color: #889797;
+  color: #5a6b6b;
 }
 
 a:focus, a:hover, a:active {
