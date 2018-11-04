@@ -53,11 +53,11 @@ hr.star-light:after {
 }
 
 hr.star-dark {
-  border-color: #5a6b6b;
+  border-color: #566a7c;
 }
 
 hr.star-dark:after {
-  color: #5a6b6b;
+  color: #566a7c;
   background-color: white;
 }
 
@@ -92,7 +92,7 @@ section h2 {
 .scroll-to-top a {
   width: 3.5rem;
   height: 3.5rem;
-  background-color: #5a6b6b;
+  background-color: #566a7c;
   line-height: 3.1rem;
 }
 
@@ -321,7 +321,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #889797;
+  color: #e9ecef;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -331,12 +331,12 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #5a6b6b;
+  background-color: #566a7c;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #566a7c;
 }
 
 #preview a {
@@ -345,10 +345,10 @@ form .row:first-child .floating-label-form-group {
   text-decoration: none;
   font-size: 26px;
   font-weight: bold;
-  color: #5a6b6b;
+  color: #566a7c;
 }
 a {
-  color: #5a6b6b;
+  color: #566a7c;
 }
 
 a:focus, a:hover, a:active {
@@ -364,7 +364,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #5a6b6b !important;
+  background-color: #566a7c !important;
 }
 
 .text-primary {
@@ -372,7 +372,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-secondary {
-  color: #5a6b6b !important;
+  color: #566a7c !important;
 }
 
 .btn-primary {
@@ -386,8 +386,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary {
-  background-color: #5a6b6b;
-  border-color: #5a6b6b;
+  background-color: #566a7c;
+  border-color: #566a7c;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
